@@ -12,6 +12,8 @@
 		CE9B735B2045BF2000472CC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9B73592045BF2000472CC2 /* Main.storyboard */; };
 		CE9B735D2045BF2000472CC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9B735C2045BF2000472CC2 /* Assets.xcassets */; };
 		CE9B73602045BF2000472CC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9B735E2045BF2000472CC2 /* LaunchScreen.storyboard */; };
+		CE9B73682045C04500472CC2 /* ViewControllerSegunda.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9B73672045C04500472CC2 /* ViewControllerSegunda.swift */; };
+		CE9B736A2045C08500472CC2 /* ViewControllerTercera.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9B73692045C08500472CC2 /* ViewControllerTercera.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		CE9B735C2045BF2000472CC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE9B735F2045BF2000472CC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE9B73612045BF2000472CC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE9B73672045C04500472CC2 /* ViewControllerSegunda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSegunda.swift; sourceTree = "<group>"; };
+		CE9B73692045C08500472CC2 /* ViewControllerTercera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTercera.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				CE9B735C2045BF2000472CC2 /* Assets.xcassets */,
 				CE9B735E2045BF2000472CC2 /* LaunchScreen.storyboard */,
 				CE9B73612045BF2000472CC2 /* Info.plist */,
+				CE9B73672045C04500472CC2 /* ViewControllerSegunda.swift */,
+				CE9B73692045C08500472CC2 /* ViewControllerTercera.swift */,
 			);
 			path = variasPantallas;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE9B73582045BF2000472CC2 /* ViewController.swift in Sources */,
+				CE9B73682045C04500472CC2 /* ViewControllerSegunda.swift in Sources */,
 				CE9B73562045BF2000472CC2 /* AppDelegate.swift in Sources */,
+				CE9B736A2045C08500472CC2 /* ViewControllerTercera.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
